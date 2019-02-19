@@ -1,0 +1,16 @@
+---
+label: Default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: test
+- type: color
+  name: test
+  config:
+    color_format: Hex
+  label: test
+  default: "#8B572A"
+- type: blocks
+  name: block
+  label: block
